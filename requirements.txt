@@ -11,7 +11,7 @@ discord.py == 0.16.12
 # nmt/scripts/rouge.py: 14
 # nmt/utils/misc_utils.py: 27
 # nmt/utils/nmt_utils.py: 21
-numpy == 1.13.3
+numpy == 1.22.0
 
 # nmt/model_helper.py: 5
 six == 1.11.0
